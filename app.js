@@ -33,7 +33,6 @@ userSchema= new mongoose.Schema({
     email:String,
     password:String,
     secret:String
-    // actual a object created from mongoose schema class 
 });
 
 
@@ -158,8 +157,9 @@ app.get("/logout", function(req , res){
 
 
 let port= process.env.PORT;
+
 if(port== null || port == ""){
-    port=3000;
+    port=8080;
 }
 
 
