@@ -36,7 +36,7 @@ Before running the application, you need to have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NegiAdarsh/read-and-write.git
+   git clone https://github.com/NegiAdarsh/read-write.git
 
 2. **Install dependencies**:
 
