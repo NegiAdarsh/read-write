@@ -68,47 +68,55 @@ If you have any questions or need assistance, please contact us at adarshn6467@g
 
 1.
 
-![Screenshot 2023-09-30 053514](https://github.com/NegiAdarsh/read-and-write/assets/100505819/d1947af4-0808-4934-a227-cc6cdd43296f)
+![Screenshot 2023-09-30 053514](https://github.com/NegiAdarsh/read-write/assets/100505819/d997e3b0-b951-41b2-b752-a0da2dbe7fcc)
+
 
 2. **To-do-List**
 
-![Screenshot 2023-09-30 053531](https://github.com/NegiAdarsh/read-and-write/assets/100505819/872181e9-9254-4ab2-8051-f3e3f748f772)
 
-![to-do-list-1](https://github.com/NegiAdarsh/read-and-write/assets/100505819/cd76a88c-e218-4f06-8f75-c8bede49a5e7)
+![Screenshot 2023-09-30 053531](https://github.com/NegiAdarsh/read-write/assets/100505819/f1108737-4f96-4016-a137-729f26d6ed57)
+
+![to-do-list-1](https://github.com/NegiAdarsh/read-write/assets/100505819/e23d0115-8a14-46fb-8eac-0178331a1e05)
+
 
 **Your very own List**
 
-![to-do-list-2](https://github.com/NegiAdarsh/read-and-write/assets/100505819/18a77464-eb75-430a-ba41-86c5626a777a)
+
+![to-do-list-2](https://github.com/NegiAdarsh/read-write/assets/100505819/26e63787-1959-4098-9eb1-0c6fc46b994e)
 
 3. **Blog**
-![Screenshot 2023-09-30 053522](https://github.com/NegiAdarsh/read-and-write/assets/100505819/714bebcb-a9b9-48de-bb16-9148ed45bda2)
 
-![blog-1](https://github.com/NegiAdarsh/read-and-write/assets/100505819/64fff52f-80a7-47cc-9374-f878b3139284)
+![Screenshot 2023-09-30 053522](https://github.com/NegiAdarsh/read-write/assets/100505819/0fcb02ee-4c7d-46f9-9ea8-2e4308a170fa)
+
+![blog-1](https://github.com/NegiAdarsh/read-write/assets/100505819/4046691b-eb0e-438d-96a7-eb2773d0cf8e)
 
 **Read Full Post**
 
-![blog-2](https://github.com/NegiAdarsh/read-and-write/assets/100505819/ab5335ac-f1a8-4741-a782-1b22137985b3)
+
+![blog-2](https://github.com/NegiAdarsh/read-write/assets/100505819/80e1660c-5435-4dd9-a1fe-c1b4a10b6ca5)
 
 **Play Simon Game**
-![Screenshot 2023-09-30 053540](https://github.com/NegiAdarsh/read-and-write/assets/100505819/3551fd05-0eed-4a08-9b6b-fa474bf97fd5)
 
 
-![Screenshot 2023-09-30 053320](https://github.com/NegiAdarsh/read-and-write/assets/100505819/69b7d240-c412-4c93-bcc0-b6352d46ece3)
+![Screenshot 2023-09-30 053320](https://github.com/NegiAdarsh/read-write/assets/100505819/b18d98e4-b5e5-4ac5-beea-7ea6e2a3c1d0)
+
+![Screenshot 2023-09-30 053540](https://github.com/NegiAdarsh/read-write/assets/100505819/04047be3-ccf0-4f6e-bc2b-421365819bb2)
 
 **Share your SECRET**
 
-![Screenshot 2023-09-30 053548](https://github.com/NegiAdarsh/read-and-write/assets/100505819/9cac1200-fbd1-4425-bde7-686977f6bb06)
+
+![Screenshot 2023-09-30 053548](https://github.com/NegiAdarsh/read-write/assets/100505819/8557754a-e23e-49d0-baea-a3774387fa42)
+
 
 **Register and login**
-![Screenshot 2023-09-30 053625](https://github.com/NegiAdarsh/read-and-write/assets/100505819/c4daa902-a322-43ea-aa40-34fc9289dc62)
+
+![Screenshot 2023-09-30 053625](https://github.com/NegiAdarsh/read-write/assets/100505819/cdbbc81b-fc44-451e-b574-fc2f0bfa6835)
 
 
-![Screenshot 2023-09-30 053607](https://github.com/NegiAdarsh/read-and-write/assets/100505819/d1a27c55-4a7a-4fef-9885-867f541213e5)
+![Screenshot 2023-09-30 053607](https://github.com/NegiAdarsh/read-write/assets/100505819/fd44c11f-6fcb-41a4-9cd8-8aef8f7411b5)
 
-
-![Screenshot 2023-09-30 053559](https://github.com/NegiAdarsh/read-and-write/assets/100505819/9ddfc49b-08ce-4780-87c5-35522416dd63)
-
+![Screenshot 2023-09-30 053559](https://github.com/NegiAdarsh/read-write/assets/100505819/b6f223be-d1fc-4dbc-ab06-d8ce5e1ee49e)
 
 **Newsletter**
 
-![Screenshot 2023-08-27 212454](https://github.com/NegiAdarsh/read-and-write/assets/100505819/c2aba6d1-54e9-436e-ae7b-b765e09e656f)
+![Screenshot 2023-08-27 212454](https://github.com/NegiAdarsh/read-write/assets/100505819/7c34b2ad-6d3d-4293-8a1f-3e6e59962a4a)
